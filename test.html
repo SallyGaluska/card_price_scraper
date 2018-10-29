@@ -1,0 +1,32 @@
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<div>
+	
+</div>
+
+	<script>
+//		axios.get("https://api.scryfall.com/cards/search?q=abrade")
+//			.then(function (response) {
+//				console.log(response.data.data[0].usd);
+//			})
+d3.dsv(",", "cards.csv", function(d) {
+return {
+	name : d.name,
+	quantity : d.quantity,
+	color : d.color	
+};
+}).then(function(d1) {
+  console.log(d1);
+	
+
+for (i=0; i < 10; i++){
+
+	axios.get("https://api.scryfall.com/cards/search?q=" + d1[i].name)
+             .then(function (response) {
+		  var card = response.data.data[0];
+                  console.log(card.name + " : " + card.usd);
+		});	
+	}
+});
+	</script>
