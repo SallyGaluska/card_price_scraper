@@ -27,13 +27,11 @@ def getPriceFromScryfall(CardList):
         if "usd" in ScryfallData:
             return float(ScryfallData["usd"])
         else:
-            return 0
             print("usd not listed for "+card.setCode+" "+card.name+", adding price as 0")
+            return 0
     else:
         print("couldn't find "+card.setCode+" "+card.name+" online, check that you spelled it correctly")
         return 0
-
-
 
 def createCSVWithPrices(CardList):
     with open("prices_of_"+sys.argv[1], "w") as csvfile:
