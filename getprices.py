@@ -3,13 +3,13 @@ import requests, csv, sys, time, json
 from SimplifiedCardObject import Card
 
 def main():
-
     checkProperArgsExist()
     CardList=getCardList()
     for card in CardList:
         card.setPrice(getPriceFromScryfall(card))
         print(card.name+" : "+str(card.price))
     createCSVWithPrices(CardList)
+    print("Your collection is worth $"+getSumOfCardPrices(CardList)+".")
 
 def checkProperArgsExist():
     if len(sys.argv)<2:
@@ -21,25 +21,35 @@ def getCardList():
     with open(sys.argv[1]) as csvfile:
         cardreader=csv.reader(csvfile, delimiter=",")
         for row in cardreader:
-            cardList.append(Card(row))
-    del cardList[0]
+            cardList.append(Card(row[0], row[1], row[2]))
+    del cardList[0] #The first row just has the headers. name, set, quantity...
     return cardList
 
 def getPriceFromScryfall(card):
+    if card.setCode=="":
+        getPriceForMostRecentPrinting(card)
     r=requests.get("https://api.scryfall.com/cards/named?exact="+card.name+"&set="+card.setCode)
     if r.status_code==200:
-        ScryfallJSON=r.text
-        return extractPriceFromScryfallJSON(ScryfallJSON)
+        ScryfallData=json.loads(r.text)
+        return extractPriceFromScryfallData(ScryfallData)
     else:
-        card.setNote("Couldn't find this card/set combination. Check that you put the right set, and check spelling.")
-        return 0
-        
-def extractPriceFromScryfallJSON(ScryfallJSON):
-    ScryfallData=(json.loads(ScryfallJSON))
+        return getPriceForMostRecentPrinting(card)
+
+def extractPriceFromScryfallData(ScryfallData):
     if "usd" in ScryfallData:
         return float(ScryfallData["usd"])
     else:
-        card.setNote("Couldn't find USD for this card. You may have chosen an online-only printing.")
+        card.setNote("No USD listed for "+card.setCode+" "+card.name+". If you didn't put a correct setcode, we guessed the most recent one, and it was online-only.")
+        return 0
+
+def getPriceForMostRecentPrinting(card):
+    r=requests.get("https://api.scryfall.com/cards/named?exact="+card.name)
+    if r.status_code==200:
+        ScryfallData=json.loads(r.text)
+        card.setCode=ScryfallData["set"]
+        return extractPriceFromScryfallData(ScryfallData)
+    else:
+        card.setNote("We couldn't find "+card.name+". Check spelling.")
         return 0
 
 def createCSVWithPrices(CardList):
@@ -56,6 +66,11 @@ def createOutputList(card):
     else:
         return [card.name, card.setCode, card.quantity, card.price]
 
+def getSumOfCardPrices(CardList):
+    priceList=0
+    for card in CardList:
+        priceList+=int(card.price)
+    return sum(priceList)
 
 if __name__=="__main__":
     main()

@@ -37,7 +37,7 @@ Lumbering Falls,bfz,2
 Needle Spires,ogw,3
 Shambling Vent,bfz,1
 Wandering Fumarole,ogw,2
-Mutavault,prm,2
+Mutavault,pgpx,2
 Treetop Village,ulg,1
 Mystic Gate,exp,1
 Wooded Bastion,shm,1
@@ -85,14 +85,14 @@ Ghost Quarter,isd,2
 Ghost Quarter,c14,3
 Tectonic Edge,wwk,1
 Inventors’ Fair,kld,1
-Pendlehaven,a25,1
+Pendelhaven,a25,1
 Sea Gate Wreckage,ogw,1
 Windbrisk Heights,md1,2
 Noble Hierarch,mm2,4
 Oath of Nissa,ogw,4
 Path to Exile,con,5
 Path to Exile,mm3,2
-Lotus Cobra,wwk,3
+Lotus Cobra,zen,3
 Lotus Cobra,ima,1
 Coiling Oracle,mm3,4
 Tireless Tracker,soi,4
@@ -112,7 +112,7 @@ Stony Silence,isd,2
 Mirran Crusader,mbs,4
 "Keranos, God of Storms",jou,1
 Acidic Slime,ddm,1
-Cataclysmic Gearhluk,kld,2
+Cataclysmic Gearhulk,kld,2
 Eidolon of Rhetoric,jou,2
 Assassin’s Trophy,grn,2
 Tidehollow Sculler,mma,2
@@ -214,7 +214,7 @@ Rattlechains,soi,4
 Remand,ddm,3
 Retreat to Coralhelm,bfz,2
 Snap,ulg,3
-Sower of Temptatioon,bbd,1
+Sower of Temptation,bbd,1
 Spell Pierce,xln,2
 Spell Pierce,zen,1
 Spell Pierce,mm3,2
@@ -281,7 +281,7 @@ Meddling Mage,arb,4
 Orzhov Pontiff,gpt,1
 Qasali Pridemage,arb,2
 "Pharika, God of Affliction",jou,1
-Renegade Rallier,fnm,2
+Renegade Rallier,f17,2
 Reflector Mage,ogw,4
 "Sigarda, Heron’s Grace",soi,1
 "Sigarda, Host of Herons",avr,1

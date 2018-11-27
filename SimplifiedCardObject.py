@@ -1,9 +1,9 @@
 class Card:
-    def __init__(self, inList):
-        self.name=inList[0]
-        self.setCode=inList[1]
-        self.quantity=inList[2]
+    def __init__(self, name, setCode, quantity=1):
+        self.name=name
+        self.setCode=setCode
+        self.quantity=quantity
     def setPrice(self, price):
         self.price=price
-    def addNote(self, note):
+    def setNote(self, note):
         self.note=note
