@@ -1,10 +1,15 @@
 #!/usr/bin/python
-#TODO: add logic that checks for the presence of a fourth row after color for "Printing." If such a row exists, it checks only the price
-#for that particular printing, and adds that to the spreadsheet. If no such row exists, it does what it does now, which is to just
-#check the most recent printing of the card.
-
 import requests, csv, sys, time, json
 from SimplifiedCardObject import Card
+
+def main():
+
+    checkProperArgsExist()
+    CardList=getCardList()
+    for card in CardList:
+        card.setPrice(getPriceFromScryfall(card))
+        print(card.name+" : "+str(card.price))
+    createCSVWithPrices(CardList)
 
 def checkProperArgsExist():
     if len(sys.argv)<2:
@@ -20,17 +25,21 @@ def getCardList():
     del cardList[0]
     return cardList
 
-def getPriceFromScryfall(CardList):
+def getPriceFromScryfall(card):
     r=requests.get("https://api.scryfall.com/cards/named?exact="+card.name+"&set="+card.setCode)
     if r.status_code==200:
-        ScryfallData=(json.loads(r.text))
-        if "usd" in ScryfallData:
-            return float(ScryfallData["usd"])
-        else:
-            print("usd not listed for "+card.setCode+" "+card.name+", adding price as 0")
-            return 0
+        ScryfallJSON=r.text
+        return extractPriceFromScryfallJSON(ScryfallJSON)
     else:
-        print("couldn't find "+card.setCode+" "+card.name+" online, check that you spelled it correctly")
+        card.setNote("Couldn't find this card/set combination. Check that you put the right set, and check spelling.")
+        return 0
+        
+def extractPriceFromScryfallJSON(ScryfallJSON):
+    ScryfallData=(json.loads(ScryfallJSON))
+    if "usd" in ScryfallData:
+        return float(ScryfallData["usd"])
+    else:
+        card.setNote("Couldn't find USD for this card. You may have chosen an online-only printing.")
         return 0
 
 def createCSVWithPrices(CardList):
@@ -49,9 +58,4 @@ def createOutputList(card):
 
 
 if __name__=="__main__":
-    checkProperArgsExist()
-    CardList=getCardList()
-    for card in CardList:
-        card.setPrice(getPriceFromScryfall(card))
-        print(card.name+" : "+str(card.price))
-    createCSVWithPrices(CardList)
+    main()

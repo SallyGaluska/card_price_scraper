@@ -1,0 +1,321 @@
+name,set,quantity
+Misty Rainforest,mm3,4
+Misty Rainforest,zen,1
+Verdant Catacombs,mm3,4
+Scalding Tarn,mm3,4
+Arid Mesa,mm3,1
+Marsh Flats,mm3,2
+Windswept Heath,ktk,4
+Windswept Heath,ons,1
+Wooded Foothills,ktk,4
+Flooded Strand,ktk,4
+Polluted Delta,ktk,4
+Bloodstained Mire,ktk,2
+Overgrown Tomb,rtr,3
+Breeding Pool,gtc,2
+Breeding Pool,dis,1
+Stomping Ground,gtc,1
+Stomping Ground,gpt,1
+Sacred Foundry,gtc,2
+Godless Shrine,gtc,4
+Watery Grave,gtc,3
+Hallowed Fountain,rtr,4
+Steam Vents,rtr,2
+Temple Garden,rtr,5
+Tropical Island,3ed,1
+Taiga,3ed,1
+Botanical Sanctum,kld,4
+Blooming Marsh,kld,4
+Concealed Courtyard,kld,4
+Inspiring Vantage,kld,4
+Spirebluff Canal,kld,8
+Razorverge Thicket,som,3
+Celestial Colonnade,wwk,4
+Stirring Wildwood,ddp,1
+Hissing Quagmire,ogw,2
+Lumbering Falls,bfz,2
+Needle Spires,ogw,3
+Shambling Vent,bfz,1
+Wandering Fumarole,ogw,2
+Mutavault,prm,2
+Treetop Village,ulg,1
+Mystic Gate,exp,1
+Wooded Bastion,shm,1
+Dragonskull Summit,m13,2
+Drowned Catacomb,xln,1
+Drowned Catacomb,m10,1
+Isolated Chapel,dom,1
+Rootbound Crag,m11,1
+Rootbound Crag,xln,4
+Sunpetal Grove,m12,3
+Sunpetal Grove,xln,3
+Cinder Glade,bfz,1
+Temple of Mystery,cp1,1
+Temple of Triumph,ths,1
+Horizon Canopy,fut,1
+Horizon Canopy,ima,1
+Cavern of Souls,avr,3
+Cavern of Souls,mm3,1
+Ancient Ziggurat,con,4
+Glacial Fortress,m10,1
+Gavony Township,isd,2
+Kessig Wolf Run,isd,1
+Moorland Haunt,isd,1
+Field of Ruin,xln,4
+Forbidden Orchard,c16,1
+Mana Confluence,jou,1
+Unclaimed Territory,xln,2
+Eldrazi Temple,ddp,4
+Eye of Ugin,wwk,1
+Sanctum of Ugin,bfz,1
+Brushland,ice,4
+Sulfurous Springs,ice,1
+Battlefield Forge,mmq,1
+Battlefield Forge,ori,4
+Yavimaya Coast,ori,4
+Llanowar Wastes,ori,1
+Caves of Koilos,m15,1
+Ash Barrens,c16,2
+Canyon Slough,akh,1
+Scattered Groves,akh,2
+Bojuka Bog,wwk,1
+Sejiri Steppe,wwk,1
+Ghost Quarter,dis,3
+Ghost Quarter,isd,2
+Ghost Quarter,c14,3
+Tectonic Edge,wwk,1
+Inventors’ Fair,kld,1
+Pendlehaven,a25,1
+Sea Gate Wreckage,ogw,1
+Windbrisk Heights,md1,2
+Noble Hierarch,mm2,4
+Oath of Nissa,ogw,4
+Path to Exile,con,5
+Path to Exile,mm3,2
+Lotus Cobra,wwk,3
+Lotus Cobra,ima,1
+Coiling Oracle,mm3,4
+Tireless Tracker,soi,4
+Eternal Witness,c15,4
+Renegade Rallier,aer,2
+Knight of Autumn,grn,4
+Eldritch Evolution,emn,4
+Saheeli Rai,kld,4
+Felidar Guardian,aer,4
+"Shalai, Voice of Plenty",dom,1
+"Jace, the Mind Sculptor",wwk,2
+"Kiki-Jiki, Mirror Breaker",mma,2
+Thragtusk,m13,2
+Thragtusk,mm3,2
+Rest in Peace,rtr,6
+Stony Silence,isd,2
+Mirran Crusader,mbs,4
+"Keranos, God of Storms",jou,1
+Acidic Slime,ddm,1
+Cataclysmic Gearhluk,kld,2
+Eidolon of Rhetoric,jou,2
+Assassin’s Trophy,grn,2
+Tidehollow Sculler,mma,2
+Tidehollow Sculler,ala,2
+Sin Collector,mm3,3
+Kor Firewalker,wwk,2
+Remorseful Cleric,m19,3
+Viscera Seer,c13,1
+Viscera Seer,m11,1
+Birds of Paradise,m11,4
+Vizier of Remedies,akh,4
+Devoted Druid,shm,4
+Duskwatch Recruiter,soi,4
+Kitchen Finks,shm,4
+Walking Ballista,aer,1
+Chord of Calling,m15,4
+Celestial Purge,m10,1
+Leyline of Sanctity,m11,1
+Ceremonious Rejection,kld,2
+Damping Sphere,dom,2
+Engineered Explosives,mma,1
+Surgical Extraction,nph,1
+Baneslayer Angel,m10,1
+Timely Reinforcements,m12,1
+Terminus,mm3,3
+Terminus,avr,1
+Opt,xln,4
+Cast Out,akh,4
+Cryptic Command,ima,3
+Cryptic Command,mm2,1
+Snapcaster Mage,isd,2
+Snapcaster Mage,mm3,2
+Mana Leak,sth,3
+Mana Leak,m11,1
+serum visions,mm3,3
+Settle the Wreckage,xln,1
+Search for Azcanta,xln,2
+"Teferi, Hero of Dominaria",dom,2
+Detention Sphere,rtr,3
+Vendilion Clique,mm2,1
+Dispel,bfz,4
+Dispel,rtr,3
+Logic Knot,fut,1
+Supreme Verdict,rtr,3
+Aether Vial,dst,4
+Collected Company,dtk,4
+Mausoleum Wanderer,emn,4
+Phantasmal Image,mm3,3
+Selfless Spirit,emn,4
+Supreme Phantom,m19,4
+Geist of Saint Traft,isd,4
+Drogskol Captain,dka,4
+Spell Queller,emn,4
+Worship,usg,2
+"Thalia, Guardian of Thraben",dka,4
+Unified Will,roe,3
+Disdainful Stroke,grn,2
+"Anafenza, Kin-Tree Spirit",dtk,1
+Apostle’s Blessing,nph,3
+Aven Mindcensor,akh,2
+Blessed Alliance,emn,5
+"Brimaz, King of Oreskos",bng,1
+Burrenton Forge-Tender,md1,1
+Champion of the Parish,isd,4
+Condemn,dis,1
+Dusk // Dawn,akh,2
+"Elspeth, Sun’s Champion",ths,1
+Fiend Hunter,isd,1
+Gideon Jura,m12,1
+Gideon of the Trials,akh,2
+"Kataki, War’s Wage",md1,2
+"Linvala, Keeper of Silence",mm3,1
+Militia Bugler,m19,1
+Restoration Angel,avr,1
+Secure the Wastes,dtk,1
+Sun Titan,c14,1
+Thalia’s Lieutenant,soi,4
+"Thalia, Heretic Cathar",emn,4
+Annul,usg,3
+Artful Dodge,dka,1
+Augur of Bolas,mm3,4
+Brainstorm,mmq,1
+Brainstorm,ice,1
+Counterspell,ema,4
+Daze,nem,2
+Delver of Secrets,isd,4
+Disallow,aer,1
+Faerie Miscreant,ori,4
+Gush,mmq,3
+Gitaxian Probe,nph,4
+Hydroblast,ice,1
+Hydroblast,ema,3
+"Jace, Architect of Thought",rtr,3
+Mulldrifter,mma,1
+Ninja of the Deep Hours,bok,4
+Ponder,lrw,4
+Preordain,m11,4
+Rattlechains,soi,4
+Remand,ddm,3
+Retreat to Coralhelm,bfz,2
+Snap,ulg,3
+Sower of Temptatioon,bbd,1
+Spell Pierce,xln,2
+Spell Pierce,zen,1
+Spell Pierce,mm3,2
+Spell Snare,dis,1
+Spellstutter Sprite,lrw,3
+Spellstutter Sprite,mma,2
+Spreading Seas,zen,4
+Stormbound Geist,dka,3
+Stubborn Denial,ktk,4
+Swan Song,ths,1
+"Tamiyo, the Moon Sage",avr,1
+Vapor Snag,nph,2
+Collective Brutality,emn,4
+Death’s Shadow,mm3,1
+Dismember,nph,3
+Fatal Push,aer,5
+"Gonti, Lord of Luxury",kld,1
+Inquisition of Kozilek,mm3,1
+Kitesail Freebooter,xln,4
+Noxious Gearhulk,kld,1
+Thoughtseize,ima,2
+Abrade,hou,4
+Ancient Grudge,isd,3
+Anger of the Gods,ths,1
+Blood Moon,mm3,3
+Blood Moon,a25,1
+"Chandra, Torch of Defiance",kld,2
+Glorybringer,akh,2
+Lightning Bolt,m11,8
+Temur Battle Rage,frf,3
+Vandalblast,rtr,1
+Acidic Slime,c15,1
+Ancient Stirrings,roe,4
+Beast Within,pc2,1
+Blossoming Defense,kld,4
+Courser of Kruphix,bng,4
+chameleon colossus,v13,1
+Loaming Shaman,dis,1
+Mutagenic Growth,nph,3
+Natural State,ogw,2
+"Nissa, Vital Force",kld,1
+Obstinate Baloth,m11,2
+Ramunap Excavator,hou,2
+Reclamation Sage,m15,2
+Rhonas the Indomitable,akh,1
+Scavenging Ooze,m14,4
+Spike Feeder,tsb,1
+Tarmogoyf,mm3,1
+Thrashing Brontodon,rix,2
+"Thrun, the Last Troll",mbs,1
+Wayward Swordtooth,rix,1
+Abrupt Decay,rtr,2
+Deafening Clarion,grn,2
+Dromoka’s Command,dtk,1
+Fracturing Gust,shm,1
+Izzet Staticaster,rtr,2
+"Kambal, Consul of Allocation",kld,1
+Knight of the Reliquary,con,4
+Loxodon Smiter,rtr,1
+Maelstrom Pulse,arb,1
+Mantis Rider,ktk,2
+Meddling Mage,arb,4
+"Nissa, Steward of Elements",akh,1
+Orzhov Pontiff,gpt,1
+Qasali Pridemage,arb,2
+"Pharika, God of Affliction",jou,1
+Renegade Rallier,fnm,2
+Reflector Mage,ogw,4
+"Sigarda, Heron’s Grace",soi,1
+"Sigarda, Host of Herons",avr,1
+Sphinx’s Revelation,rtr,1
+Steel of the Godhead,lrw,1
+"Tamiyo, Field Researcher",emn,2
+Unmoored Ego,grn,1
+Voice of Resurgence,mm3,4
+Whirler Virtuoso,kld,1
+Zealous Persecution,ddk,1
+Bonesplitter,mma,2
+Drowner of Hope,bfz,4
+Eldrazi Displacer,ogw,4
+Eldrazi Skyspawner,bfz,4
+Endbringer,ogw,1
+Flayer Husk,mm2,1
+Gilded Lotus,dom,1
+Grafdigger’s Cage,dka,2
+Grafdigger’s Cage,mm3,1
+"Kozilek, the Great Distortion",ogw,1
+Matter Reshaper,ogw,4
+Panharmonicon,kld,4
+Pithing Needle,rtr,3
+Reality Smasher,ogw,4
+Relic of Progenitus,ala,4
+"Skysovereign, Consul Flagship",kld,1
+Smuggler’s Copter,kld,1
+Sol Ring,3ed,1
+Solemn Simulacrum,c15,1
+Spellskite,nph,2
+Spire Golem,dst,4
+Steel Hellkite,c18,1
+Talisman of Progress,mrd,2
+Thought-knot Seer,ogw,4
+Void Grafter,ogw,4
+Walking Ballista,aer,2
+World Breaker,ogw,2
