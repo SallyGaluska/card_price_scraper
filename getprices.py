@@ -67,10 +67,10 @@ def createOutputList(card):
         return [card.name, card.setCode, card.quantity, card.price]
 
 def getSumOfCardPrices(CardList):
-    priceList=0
+    prices=0
     for card in CardList:
-        priceList+=int(card.price)
-    return sum(priceList)
+        prices+=int(card.price)*int(card.quantity)
+    return prices
 
 if __name__=="__main__":
     main()
