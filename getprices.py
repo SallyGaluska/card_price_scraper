@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import requests, csv, sys, time, json
+import requests, sys, time, json, csv
 from SimplifiedCardObject import Card
 
 def main():
@@ -9,7 +9,7 @@ def main():
         card.setPrice(getPriceFromScryfall(card))
         print(card.name+" : "+str(card.price))
     createCSVWithPrices(CardList)
-    print("Your collection is worth $"+getSumOfCardPrices(CardList)+".")
+    print("Your collection is worth $"+str(getSumOfCardPrices(CardList))+".")
 
 def checkProperArgsExist():
     if len(sys.argv)<2:
@@ -54,17 +54,15 @@ def getPriceForMostRecentPrinting(card):
 
 def createCSVWithPrices(CardList):
     with open("prices_of_"+sys.argv[1], "w") as csvfile:
-        cardwriter=csv.writer(csvfile)
-        cardwriter.writerow(["name", "set", "quantity", "price", "notes"])
         for card in CardList:
             out=createOutputList(card)
-            cardwriter.writerow(out)
+            csvfile.write('"'+('","'.join(out))+'"\n"')
 
 def createOutputList(card):
     if hasattr(card, 'note'):
-        return [card.name, card.setCode, card.quantity, card.price, card.note]
+        return [card.name, card.setCode, str(card.quantity), str(card.price), card.note]
     else:
-        return [card.name, card.setCode, card.quantity, card.price]
+        return [card.name, card.setCode, str(card.quantity), str(card.price)]
 
 def getSumOfCardPrices(CardList):
     prices=0
