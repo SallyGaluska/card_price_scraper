@@ -1,7 +1,14 @@
 #!/usr/bin/python
-import requests, sys, time, json, csv
+import requests, sys, time, json, csv, mysql.connector
 from SimplifiedCardObject import Card
 
+def test():
+    CardList=getCardList()
+    pricesum=0
+    for card in CardList:
+        print(card.name)
+        pricesum+=getPriceFromSQL(card)
+    print(str(pricesum))
 def main():
     checkProperArgsExist()
     CardList=getCardList()
@@ -24,6 +31,16 @@ def getCardList():
             cardList.append(Card(row[0], row[1], row[2]))
     del cardList[0] #The first row just has the headers. name, set, quantity...
     return cardList
+
+def getPriceFromSQL(card):
+    cnx = mysql.connector.connect(user="sally", password="6vi6GfbTYjmR909IfhML", host="localhost", database="MagicCards")
+    cursor=cnx.cursor()
+    query="select * from your_collection where card_name=%s AND set_code=%s;"
+    cardinfo=(card.name, card.setCode)
+    cursor.execute(query, cardinfo)
+    result=cursor.fetchone()
+    cnx.close()
+    return result[3]
 
 def getPriceFromScryfall(card):
     if card.setCode=="":
@@ -56,7 +73,7 @@ def createCSVWithPrices(CardList):
     with open("prices_of_"+sys.argv[1], "w") as csvfile:
         for card in CardList:
             out=createOutputList(card)
-            csvfile.write('"'+('","'.join(out))+'"\n"')
+            csvfile.write('"'+('","'.join(out))+'"\n')
 
 def createOutputList(card):
     if hasattr(card, 'note'):
@@ -71,4 +88,4 @@ def getSumOfCardPrices(CardList):
     return prices
 
 if __name__=="__main__":
-    main()
+    test()
