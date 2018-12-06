@@ -21,10 +21,14 @@ def getCardList():
     with open(sys.argv[1]) as csvfile:
         cardreader=csv.reader(csvfile, delimiter=",")
         for row in cardreader:
-            cardList.append(Card(row[0], row[1], row[2]))
+            cardName=fixApostrophes(row[0])
+            cardList.append(Card(cardName, row[1], row[2]))
     del cardList[0] #The first row just has the headers. name, set, quantity...
     return cardList
 
+def fixApostrophes(string):
+    return string.replace("’", "'")
+    
 def getPriceFromScryfall(card):
     if card.setCode=="":
         getPriceForMostRecentPrinting(card)
