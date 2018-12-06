@@ -96,7 +96,7 @@ Ghost Quarter,dis,3
 Ghost Quarter,isd,2
 Ghost Quarter,c14,3
 Tectonic Edge,wwk,2
-Inventors’ Fair,kld,2
+Inventors' Fair,kld,2
 Pendelhaven,a25,1
 Sea Gate Wreckage,ogw,1
 Windbrisk Heights,md1,3
@@ -109,7 +109,7 @@ Temple of Abandon,ths,1
 Temple of Mystery,ths,1
 Tainted Field,tor,1
 Sheltered Thicket,akh,1
-Westvale Abbey,soi,1
+"Westvale Abbey // Ormendahl, Profane Prince",soi,1
 Noble Hierarch,mm2,4
 Oath of Nissa,ogw,4
 Path to Exile,con,5
@@ -139,20 +139,20 @@ Acidic Slime,m11,1
 Acidic Slime,c15,1
 Cataclysmic Gearhulk,kld,2
 Eidolon of Rhetoric,jou,2
-Assassin’s Trophy,grn,2
+Assassin's Trophy,grn,2
 Tidehollow Sculler,mma,2
 Tidehollow Sculler,ala,2
 Sin Collector,mm3,3
 Kor Firewalker,wwk,2
 Remorseful Cleric,m19,3
 Viscera Seer,c13,1
-Viscera Seer,m11,1
+Viscera Seer,m11,2
 Birds of Paradise,m11,4
 Vizier of Remedies,akh,4
 Devoted Druid,shm,4
-Duskwatch Recruiter,soi,4
+"Duskwatch Recruiter // Krallenhorde Howler",soi,4
 Kitchen Finks,shm,4
-Walking Ballista,aer,1
+Walking Ballista,aer,2
 Chord of Calling,m15,4
 Celestial Purge,m10,1
 Leyline of Sanctity,m11,1
@@ -165,16 +165,16 @@ Timely Reinforcements,m12,1
 Terminus,mm3,3
 Terminus,avr,1
 Opt,xln,4
-Cast Out,akh,4
+Cast Out,akh,5
 Cryptic Command,ima,3
 Cryptic Command,mm2,1
 Snapcaster Mage,isd,2
 Snapcaster Mage,mm3,2
 Mana Leak,sth,4
 Mana Leak,m11,1
-serum visions,mm3,3
+Serum Visions,mm3,3
 Settle the Wreckage,xln,1
-Search for Azcanta,xln,2
+"Search for Azcanta // Azcanta, the Sunken Ruin",xln,2
 "Teferi, Hero of Dominaria",dom,2
 Detention Sphere,rtr,3
 Vendilion Clique,mm2,1
@@ -224,7 +224,7 @@ Brainstorm,ice,1
 Counterspell,ema,4
 Counterspell,tmp,1
 Daze,nem,2
-Delver of Secrets,isd,4
+"Delver of Secrets // Insectile Aberration",isd,4
 Disallow,aer,1
 Faerie Miscreant,ori,4
 Gush,mmq,3
@@ -260,7 +260,7 @@ Fatal Push,aer,6
 "Gonti, Lord of Luxury",kld,3
 Inquisition of Kozilek,mm3,1
 Kitesail Freebooter,xln,4
-Noxious Gearhulk,kld,1
+Noxious Gearhulk,kld,2
 Thoughtseize,ima,2
 Abrade,hou,4
 Ancient Grudge,isd,3
@@ -277,7 +277,7 @@ Beast Within,pc2,1
 Beast Within,cn2,1
 Blossoming Defense,kld,4
 Courser of Kruphix,bng,4
-chameleon colossus,v13,1
+Chameleon Colossus,v13,1
 Loaming Shaman,dis,1
 Mutagenic Growth,nph,3
 Natural State,ogw,2
@@ -297,7 +297,7 @@ Deafening Clarion,grn,2
 Dromoka’s Command,dtk,1
 Fracturing Gust,shm,1
 Izzet Staticaster,rtr,2
-"Kambal, Consul of Allocation",kld,1
+"Kambal, Consul of Allocation",kld,2
 Knight of the Reliquary,con,4
 Loxodon Smiter,rtr,1
 Maelstrom Pulse,arb,1
@@ -312,7 +312,7 @@ Reflector Mage,ogw,4
 "Sigarda, Heron’s Grace",soi,1
 "Sigarda, Host of Herons",avr,1
 Sphinx’s Revelation,rtr,1
-Steel of the Godhead,lrw,1
+Steel of the Godhead,shm,1
 "Tamiyo, Field Researcher",emn,2
 Unmoored Ego,grn,1
 Voice of Resurgence,mm3,4
@@ -348,9 +348,8 @@ Spellskite,nph,2
 Spire Golem,dst,4
 Steel Hellkite,c18,1
 Talisman of Progress,mrd,2
-Thought-knot Seer,ogw,4
+Thought-Knot Seer,ogw,4
 Void Grafter,ogw,4
-Walking Ballista,aer,2
 World Breaker,ogw,2
 Cyclonic Rift,mm3,1
 The Immortal Sun,rix,1
@@ -384,7 +383,7 @@ Duplicant,c18,1
 Deadeye Navigator,avr,1
 Prime Speaker Zegana,gtc,1
 Hellkite Tyrant,gtc,1
-Part the Waterveil,bgz,1
+Part the Waterveil,bfz,1
 Explosive Vegetation,cn2,1
 Food Chain,mmq,1
 Walk the Aeons,tsp,1
@@ -393,7 +392,7 @@ Arcanis the Omnipotent,ema,1
 Avenger of Zendikar,c13,1
 Inferno Titan,c13,1
 Zealous Conscripts,avr,1
-"Xenagos, God of Revels",jou,1
+"Xenagos, God of Revels",bng,1
 Mana Vault,3ed,1
 Thran Dynamo,uds,1
 Glen Elendra Archmage,mma,1
@@ -429,7 +428,7 @@ Mind Stone,c14,1
 Darksteel Forge,hop,1
 Voltaic Key,m11,1
 Rings of Brighthearth,lrw,1
-Commander’s Sphere,m18,1
+Commander’s Sphere,c18,1
 Commander’s Sphere,c16,1
 Trinket Mage,c16,1
 Worn Powerstone,c18,1
@@ -442,7 +441,7 @@ Mindslaver,som,1
 Chromatic Lantern,rtr,1
 Magmaquake,c18,1
 Echo Storm,c18,1
-Thaumatic Compass,xln,1
+"Thaumatic Compass // Spires of Orazca",xln,1
 Hedron Archive,c18,1
 Chaos Warp,c18,1
 Prototype Portal,c18,1
@@ -472,7 +471,7 @@ Darksteel Ingot,dst,1
 Underworld Connections,rtr,1
 Orzhov Signet,mm3,1
 Corpse Connoisseur,mm3,1
-Nezumi Graverobber,chk,1
+"Nezumi Graverobber // Nighteyes the Desecrator",chk,1
 Gray Merchant of Asphodel,ths,1
 Pristine Talisman,ima,1
 Anguished Unmaking,soi,1
@@ -483,7 +482,6 @@ Blood Artist,avr,1
 Reassembling Skeleton,m11,1
 Demon of Dark Schemes,kld,1
 Karmic Guide,ulg,1
-Noxious Gearhulk,kld,1
 "Kokusho, the Evening Star",ima,1
 Sanguine Bond,ima,1
 Puppeteer Clique,mm2,1
@@ -503,7 +501,6 @@ Mind’s Eye,bbd,1
 Utter End,c16,1
 Wretched Confluence,c15,1
 Felidar Sovereign,bfz,1
-Viscera Seer,m11,1
 Hour of Revelation,hou,1
 Sun Titan,c15,1
 Mimic Vat,c18,1
@@ -511,8 +508,6 @@ Exquisite Blood,avr,1
 Hero’s Downfall,ths,1
 Unburial Rites,isd,1
 Ob Nixilis Reignited,bfz,1
-"Kambal, Consul of Allocation",kld,1
-Cast Out,akh,1
 Swords to Plowshares,ima,1
 Ashen Rider,ths,1
 Magus of the Moon,ima,1
