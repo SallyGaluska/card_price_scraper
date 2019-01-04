@@ -1,0 +1,170 @@
+name,quantity,color,price,total
+"Anafenza, Kin-Tree Spirit",1,1,0.83,0.83
+Apostle’s Blessing,3,1,0.25,0.75
+Aven Mindcensor,2,1,0.61,1.22
+Blessed Alliance,4,1,0.49,1.96
+"Brimaz, King of Oreskos",1,1,8.77,8.77
+Burrenton Forge-Tender,1,1,0.18,0.18
+Cast Out,1,1,0.1,0.1
+Cataclysmic Gearhulk,1,1,0.61,0.61
+Champion of the Parish,4,1,4.2,16.8
+Dusk // Dawn,2,1,0.05,0.1
+"Elspeth, Sun's Champion",1,1,6.99,6.99
+Felidar Guardian,4,1,0.25,1.0
+Fiend Hunter,1,1,0.1,0.1
+Gideon Jura,1,1,3.36,3.36
+Gideon of the Trials,2,1,4.49,8.98
+"Kataki, War's Wage",2,1,3.99,7.98
+Kor Firewalker,1,1,0.19,0.19
+"Linvala, Keeper of Silence",1,1,15.37,15.37
+Militia Bugler,1,1,0.25,0.25
+Mirran Crusader,4,1,2.77,11.08
+Remorseful Cleric,2,1,1.71,3.42
+Rest in Peace,2,1,5.0,10.0
+Secure the Wastes,1,1,3.76,3.76
+"Shalai, Voice of Plenty",1,1,4.98,4.98
+Sun Titan,1,1,0.44,0.44
+"Thalia, Guardian of Thraben",4,1,9.04,36.16
+"Thalia, Heretic Cathar",4,1,1.72,6.88
+Thalia's Lieutenant,4,1,2.24,8.96
+Annul,3,2,0.1,0.30000000000000004
+Artful Dodge,1,2,0.2,0.2
+Augur of Bolas,4,2,0.29,1.16
+Brainstorm,2,2,0.6,1.2
+Ceremonious Rejection,1,2,0.25,0.25
+Counterspell,4,2,1.12,4.48
+Cryptic Command,1,2,20.09,20.09
+Daze,2,2,1.5,3.0
+Disallow,1,2,2.77,2.77
+Dispel,6,2,0.2,1.2000000000000002
+Faerie Miscreant,4,2,0.25,1.0
+Gitaxian Probe,4,2,1.52,6.08
+Gush,3,2,6.13,18.39
+Hydroblast,4,2,1.31,5.24
+"Jace, Architect of Thought",3,2,1.84,5.5200000000000005
+Mana Leak,2,2,0.15,0.3
+Mulldrifter,1,2,1.02,1.02
+Negate,2,2,0.1,0.2
+Ninja of the Deep Hours,4,2,0.39,1.56
+Ponder,4,2,0.1,0.4
+Preordain,4,2,4.08,16.32
+Remand,1,2,6.4,6.4
+Retreat to Coralhelm,2,2,0.15,0.3
+Serum Visions,1,2,2.94,2.94
+Snap,3,2,0.05,0.15000000000000002
+Snapcaster Mage,1,2,71.24,71.24
+Spell Pierce,5,2,0.14,0.7000000000000001
+Spell Snare,1,2,0.68,0.68
+Spellstutter Sprite,5,2,1.96,9.8
+Spreading Seas,4,2,1.75,7.0
+Stormbound Geist,3,2,0.25,0.75
+Stubborn Denial,4,2,0.69,2.76
+"Tamiyo, the Moon Sage",1,2,17.8,17.8
+Unified Will,1,2,1.49,1.49
+Vapor Snag,2,2,0.63,1.26
+Collective Brutality,4,3,15.42,61.68
+Death's Shadow,1,3,9.22,9.22
+Dismember,3,3,2.99,8.97
+Fatal Push,5,3,3.39,16.95
+"Gonti, Lord of Luxury",1,3,0.36,0.36
+Inquisition of Kozilek,1,3,4.55,4.55
+Kitesail Freebooter,4,3,0.92,3.68
+Noxious Gearhulk,1,3,2.49,2.49
+Thoughtseize,2,3,14.22,28.44
+Viscera Seer,1,3,1.75,1.75
+Abrade,4,4,1.49,5.96
+Ancient Grudge,3,4,0.25,0.75
+Anger of the Gods,2,4,2.03,4.06
+Blood Moon,4,4,16.83,67.32
+"Chandra, Torch of Defiance",2,4,9.66,19.32
+Glorybringer,2,4,0.93,1.86
+"Kiki-Jiki, Mirror Breaker",1,4,6.71,6.71
+Lightning Bolt,8,4,2.39,19.12
+Temur Battle-Rage,3,4,0.24,0.72
+Vandalblast,1,4,3.65,3.65
+Acidic Slime,1,5,0.1,0.1
+Ancient Stirrings,4,5,2.06,8.24
+Beast Within,1,5,0.78,0.78
+Birds of Paradise,1,5,7.23,7.23
+Blossoming Defense,4,5,0.25,1.0
+Chameleon Colossus,1,5,2.49,2.49
+Courser of Kruphix,4,5,3.81,15.24
+Duskwatch Recruiter,1,5,0.94,0.94
+Eldritch Evolution,4,5,2.8,11.2
+Eternal Witness,1,5,6.87,6.87
+Loaming Shaman,1,5,0.41,0.41
+Lotus Cobra,3,5,5.24,15.72
+Mutagenic Growth,3,5,1.76,5.28
+Natural State,2,5,0.12,0.24
+"Nissa, Vital Force",1,5,3.99,3.99
+Oath of Nissa,4,5,0.79,3.16
+Obstinate Baloth,2,5,1.12,2.24
+Ramunap Excavator,2,5,3.55,7.1
+Reclamation Sage,2,5,0.27,0.54
+Rhonas the Indomitable,1,5,6.93,6.93
+Scavenging Ooze,4,5,3.44,13.76
+Spike Feeder,1,5,0,0.0,USD was not listed for this card.
+Tarmogoyf,1,5,65.35,65.35
+Thragtusk,4,5,1.97,7.88
+Thrashing Brontodon,2,5,1.64,3.28
+"Thrun, the Last Troll",1,5,14.16,14.16
+Tireless Tracker,2,5,8.45,16.9
+Wayward Swordtooth,1,5,5.38,5.38
+Coiling Oracle,4,6,0.12,0.48
+Detention Sphere,2,6,1.98,3.96
+Dromoka’s Command,1,6,1.18,1.18
+Fracturing Gust,1,6,9.99,9.99
+Geist of Saint Traft,1,6,8.53,8.53
+Izzet Staticaster,2,6,0.25,0.5
+"Kambal, Consul of Allocation",1,6,0.79,0.79
+"Keranos, God of Storms",1,6,7.38,7.38
+Knight of Autumn,1,6,4.32,4.32
+Knight of the Reliquary,4,6,2.95,11.8
+Loxodon Smiter,1,6,0.35,0.35
+Maelstrom Pulse,1,6,20.09,20.09
+Mantis Rider,2,6,0.59,1.18
+Meddling Mage,4,6,24.27,97.08
+"Nissa, Steward of Elements",1,6,2.92,2.92
+Orzhov Pontiff,1,6,4.49,4.49
+"Paharika, God of Affliction",1,6,0,0.0,We couldn't find this card online. Check spelling.
+Qasali Pridemage,1,6,0.99,0.99
+Reflector Mage,4,6,0.79,3.16
+Renegade Rallier,4,6,0.13,0.52
+Saheeli Rai,3,6,3.99,11.97
+"Sigarda, Heron's Grace",1,6,0.62,0.62
+"Sigarda, Host of Herons",1,6,16.47,16.47
+Sin Collector,1,6,0.13,0.13
+Sphinx's Revelation,1,6,3.31,3.31
+Steel of the Godhead,1,6,2.4,2.4
+Supreme Verdict,2,6,3.89,7.78
+"Tamiyo, Field Researcher",2,6,6.58,13.16
+Voice of Resurgence,4,6,10.02,40.08
+Whirler Virtuoso,1,6,0.08,0.08
+Zealous Persecution,1,6,0.15,0.15
+Aether Vial,1,7,32.84,32.84
+Bonesplitter,2,7,0.25,0.5
+Drowner of Hope,4,7,0.15,0.6
+Eldrazi Displacer,4,7,2.29,9.16
+Eldrazi Skyspawner,4,7,0.09,0.36
+Endbringer,1,7,0.49,0.49
+Flayer Husk,1,7,0.1,0.1
+Gilded Lotus,1,7,2.58,2.58
+Grafdigger's Cage,3,7,4.51,13.53
+"Kozilek, the Great Distortion",1,7,4.83,4.83
+Matter Reshaper,4,7,1.56,6.24
+Panharmonicon,4,7,5.08,20.32
+Pithing Needle,3,7,2.47,7.41
+Reality Smasher,4,7,1.96,7.84
+Relic of Progenitus,4,7,3.74,14.96
+"Skysovereign, Consul Flagship",1,7,0.43,0.43
+Smuggler's Copter,1,7,1.99,1.99
+Sol Ring,1,7,0.04,0.04
+Solemn Simulacrum,1,7,0,0.0,USD was not listed for this card.
+Spellskite,2,7,7.74,15.48
+Spire Golem,4,7,0.75,3.0
+Talisman of Progress,2,7,0,0.0,USD was not listed for this card.
+Thought-knot Seer,4,7,5.54,22.16
+Void Grafter,4,7,0.06,0.24
+Walking Ballista,2,7,15.31,30.62
+World Breaker,2,7,2.98,5.96
+,,,,1346.68

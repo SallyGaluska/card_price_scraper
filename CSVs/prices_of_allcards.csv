@@ -1,0 +1,562 @@
+name,quantity,color,price,total
+Bloodstained Mire,1,7,20.92,20.92
+Marsh Flats,1,7,35.4,35.4
+Misty Rainforest,1,7,43.33,43.33
+Polluted Delta,4,7,16.02,64.08
+Scalding Tarn,2,7,63.72,127.44
+Wooded Foothills,3,7,22.1,66.30000000000001
+Breeding Pool,1,7,11.32,11.32
+Godless Shrine,4,7,8.7,34.8
+Overgrown Tomb,1,7,7.27,7.27
+Sacred Foundry,2,7,7.76,15.52
+Steam Vents,1,7,9.86,9.86
+Stomping Ground,1,7,13.33,13.33
+Temple Garden,3,7,5.18,15.54
+Watery Grave,3,7,8.44,25.32
+Blooming Marsh,4,7,4.81,19.24
+Botanical Sanctum,2,7,3.06,6.12
+Concealed Courtyard,3,7,2.29,6.87
+Inspiring Vantage,4,7,2.93,11.72
+Spirebluff Canal,4,7,6.42,25.68
+Razorverge Thicket,2,7,6.69,13.38
+Wooded Bastion,1,7,16.93,16.93
+Ancient Ziggurat,4,7,9.64,38.56
+Cavern of Souls,3,7,70.0,210.0
+Forbidden Orchard,1,7,6.83,6.83
+Mana Confluence,1,7,8.26,8.26
+Unclaimed Territory,2,7,1.54,3.08
+Hissing Quagmire,2,7,1.65,3.3
+Lumbering Falls,2,7,0.43,0.86
+Mutavault,2,7,9.51,19.02
+Needle Spires,3,7,0.51,1.53
+Shambling Vent,1,7,1.21,1.21
+Stirring Wildwood,1,7,0,0.0,USD was not listed for this card.
+Treetop Village,1,7,0.16,0.16
+Wandering Fumarole,2,7,1.04,2.08
+Dragonskull Summit,2,7,3.81,7.62
+Drowned Catacomb,2,7,6.34,12.68
+Isolated Chapel,1,7,3.64,3.64
+Rootbound Crag,5,7,3.0,15.0
+Sunpetal Grove,6,7,5.84,35.04
+Cinder Glade,1,7,2.56,2.56
+Temple of Mystery,1,7,1.5,1.5
+Temple of Triumph,1,7,1.58,1.58
+Eldrazi Temple,4,7,6.75,27.0
+Eye of Ugin,1,7,5.43,5.43
+Sanctum of Ugin,1,7,0.47,0.47
+Brushland,4,7,10.09,40.36
+Sulfurous Springs,1,7,7.88,7.88
+Battlefield Forge,5,7,0.76,3.8
+Caves of Koilos,1,7,1.04,1.04
+llanowar Wastes,1,7,1.02,1.02
+Yavimaya Coast,4,7,1.19,4.76
+Ash Barrens,2,7,2.1,4.2
+Canyon Slough,1,7,1.95,1.95
+Scattered Groves,2,7,1.61,3.22
+Bojuka Bog,1,7,1.6,1.6
+Ghost Quarter,8,7,1.76,14.08
+Inventors’ Fair,1,7,3.06,3.06
+Kessig Wolf Run,1,7,3.36,3.36
+Pendlehaven,1,7,0,0.0,We couldn't find this card online. Check spelling.
+Sea Gate Wreckage,1,7,0.34,0.34
+Sejiri Steppe,1,7,0.14,0.14
+Tectonic Edge,1,7,1.55,1.55
+Windbrisk Heights,2,7,1.24,2.48
+Search for Azcanta,2,1,16.92,33.84
+"Teferi, Hero of Dominaria",2,1,48.22,96.44
+"Jace, the Mind Sculptor",2,1,78.14,156.28
+Logic Knot,1,1,1.53,1.53
+Supreme Verdict,1,1,4.06,4.06
+Detention Sphere,1,1,2.18,2.18
+Vendilion Clique,1,1,19.07,19.07
+Snapcaster Mage,3,1,0,0.0,USD was not listed for this card.
+Settle the Wreckage,1,1,7.44,7.44
+Mana Leak,2,1,0.15,0.3
+Opt,4,1,0.14,0.56
+Serum Visions,2,1,3.03,6.06
+Condemn,1,1,0.31,0.31
+Cast Out,3,1,0.05,0.15000000000000002
+Path to Exile,4,1,7.87,31.48
+Terminus,4,1,3.38,13.52
+Cryptic Command,3,1,20.49,61.47
+Flooded Strand,4,1,15.57,62.28
+Hallowed Fountain,2,1,7.61,15.22
+Glacial Fortress,1,1,4.88,4.88
+Celestial Colonnade,4,1,0,0.0,USD was not listed for this card.
+Mystic Gate,1,1,22.21,22.21
+Scalding Tarn,1,1,63.72,63.72
+Field of Ruin,4,1,3.06,12.24
+Celestial Purge,1,1,0.19,0.19
+Ceremonious Rejection,1,1,0.42,0.42
+Disdainful Stroke,1,1,0.09,0.09
+Dispel,1,1,0.2,0.2
+Surgical Extraction,1,1,25.17,25.17
+Timely Reinforcements,1,1,1.49,1.49
+Leyline of Sanctity,1,1,21.11,21.11
+Rest in Peace,2,1,5.58,11.16
+Engineered Explosives,1,1,0,0.0,USD was not listed for this card.
+Baneslayer Angel,1,1,10.58,10.58
+Stony Silence,2,1,6.71,13.42
+Damping Sphere,2,1,1.03,2.06
+Walking Ballista,1,2,13.66,13.66
+Noble Hierarch,4,2,0,0.0,USD was not listed for this card.
+Viscera Seer,1,2,1.96,1.96
+Birds of Paradise,3,2,6.84,20.52
+Tidehollow Sculler,4,2,1.18,4.72
+Duskwatch Recruiter,3,2,0.93,2.79
+Vizier of Remedies,4,2,0.16,0.64
+Devoted Druid,4,2,4.71,18.84
+Eternal Witness,3,2,7.38,22.14
+Kitchen Finks,4,2,6.0,24.0
+Tireless Tracker,2,2,8.06,16.12
+Knight of Autumn,1,2,3.58,3.58
+Chord of Calling,4,2,8.59,34.36
+Collected Company,4,2,17.33,69.32
+Verdant Catacombs,4,2,52.06,208.24
+Windswept Heath,4,2,11.55,46.2
+Temple Garden,2,2,5.18,10.36
+Overgrown Tomb,2,2,7.27,14.54
+Horizon Canopy,2,2,51.0,102.0
+Razorverge Thicket,1,2,6.69,6.69
+Gavony Township,2,2,4.48,8.96
+Path to Exile,3,2,7.87,23.61
+Abrupt Decay,2,2,0,0.0,USD was not listed for this card.
+Sin Collector,2,2,0.14,0.28
+Eidolon of Rhetoric,2,2,1.28,2.56
+Kor Firewalker,1,2,0.17,0.17
+Remorseful Cleric,1,2,1.57,1.57
+Spell Queller,4,3,5.52,22.08
+Drogskol Captain,4,3,2.38,9.52
+Geist of Saint Traft,3,3,8.7,26.099999999999998
+Phantasmal Image,3,3,14.85,44.55
+Supreme Phantom,4,3,1.97,7.88
+Rattlechains,4,3,1.33,5.32
+Selfless Spirit,4,3,5.08,20.32
+Mausoleum Wanderer,4,3,2.78,11.12
+Aether Vial,3,3,31.38,94.14
+Cavern of Souls,1,3,70.0,70.0
+Breeding Pool,1,3,11.32,11.32
+Hallowed Fountain,2,3,7.61,15.22
+Moorland Haunt,1,3,0.41,0.41
+Botanical Sanctum,2,3,3.06,6.12
+Misty Rainforest,3,3,43.33,129.99
+Worship,2,3,0.09,0.18
+Unified Will,2,3,2.11,4.22
+Rest in Peace,2,3,5.58,11.16
+Qasali Pridemage,1,3,1.53,1.53
+Blessed Alliance,1,3,0.7,0.7
+Maelstrom Wanderer,1,4,5.85,5.85
+Brainstorm,1,4,0.57,0.57
+Windswept Heath,1,4,11.55,11.55
+Zealous Conscripts,1,4,0.61,0.61
+"Venser, Shaper Savant",1,4,4.5,4.5
+"Omnath, Locus of Rage",1,4,4.65,4.65
+Beast Within,1,4,0.97,0.97
+Rootbound Crag,1,4,3.0,3.0
+Hinterland Harbor,1,4,3.56,3.56
+Etherium-Horn Sorcerer,1,4,0.14,0.14
+"Xenagos, God of Revels",1,4,6.97,6.97
+Steam Vents,1,4,9.86,9.86
+Mind’s Dilation,1,4,3.84,3.84
+Temporal Mastery,1,4,13.07,13.07
+Temple of Epiphany,1,4,2.01,2.01
+Selvala’s Stampede,1,4,2.95,2.95
+Cultivate,1,4,0.68,0.68
+Wooded Foothills,1,4,22.1,22.1
+Bane of Progress,1,4,5.9,5.9
+Cinder Glade,1,4,2.56,2.56
+The Immortal Sun,1,4,20.68,20.68
+Terramorphic Expanse,1,4,0.16,0.16
+Mystic Confluence,1,4,2.24,2.24
+Cyclonic Rift,1,4,15.91,15.91
+Farseek,1,4,1.21,1.21
+Spell Swindle,1,4,0.57,0.57
+Oracle of Mul Daya,1,4,34.74,34.74
+Temple of Mystery,1,4,1.5,1.5
+"Rashmi, Eternities Crafter",1,4,1.34,1.34
+Tropical Island,1,4,0,0.0,USD was not listed for this card.
+Blasphemous Act,1,4,2.47,2.47
+Bloodbraid Elf,1,4,3.55,3.55
+Balefire Dragon,1,4,0,0.0,USD was not listed for this card.
+Eternal Witness,1,4,7.38,7.38
+Taiga,1,4,0,0.0,USD was not listed for this card.
+Pathbreaker Ibex,1,4,3.89,3.89
+Skyshroud Claim,1,4,0.33,0.33
+Evolving Wilds,1,4,0.09,0.09
+Sheltered Thicket,1,4,1.46,1.46
+Sol Ring,1,4,0.05,0.05
+Inferno Titan,1,4,1.36,1.36
+Ranger’s Path,1,4,0.1,0.1
+Solemn Simulacrum,1,4,0,0.0,USD was not listed for this card.
+Zendikar Resurgent,1,4,3.24,3.24
+Gilded Lotus,1,4,2.44,2.44
+Glen Elendra Archmage,1,4,24.1,24.1
+Kodama’s Reach,1,4,4.03,4.03
+Kessig Wolf Run,1,4,3.36,3.36
+Misty Rainforest,1,4,43.33,43.33
+Dragonlord Atarka,1,4,5.11,5.11
+Sunbird’s Invocation,1,4,1.51,1.51
+Crystal Shard,1,4,1.07,1.07
+Thran Dynamo,1,4,4.18,4.18
+Bloodstained Mire,1,4,20.92,20.92
+Palinchron,1,4,0,0.0,USD was not listed for this card.
+Consecrated Sphinx,1,4,11.08,11.08
+Time Warp,1,4,12.67,12.67
+Greenwarden of Murasa,1,4,1.06,1.06
+Rampant Growth,1,4,0.22,0.22
+Sensei’s Divining Top,1,4,20.51,20.51
+Temple of Abandon,1,4,0.82,0.82
+Temporal Manipulation,1,4,0,0.0,USD was not listed for this card.
+Acidic Slime,1,4,0.15,0.15
+Walk the Aeons,1,4,5.65,5.65
+Food Chain,1,4,44.98,44.98
+Explosive Vegetation,1,4,0.48,0.48
+Scroll Rack,1,4,51.05,51.05
+Part the Waterveil,1,4,0.95,0.95
+Sphinx of Uthuun,1,4,0.12,0.12
+"Kiki-Jiki, Mirror Breaker",1,4,7.4,7.4
+Hellkite Tyrant,1,4,5.55,5.55
+Prime Speaker Zegana,1,4,2.84,2.84
+Sulfur Falls,1,4,11.87,11.87
+Deadeye Navigator,1,4,2.27,2.27
+Reliquary Tower,1,4,1.78,1.78
+Duplicant,1,4,0.1,0.1
+Arid Mesa,1,4,37.25,37.25
+Frontier Bivouac,1,4,0.38,0.38
+Avenger of Zendikar,1,4,3.37,3.37
+Arcanis the Omnipotent,1,4,0.87,0.87
+Command Tower,1,4,1.29,1.29
+Mana Vault,1,4,50.0,50.0
+Breeding Pool,1,4,11.32,11.32
+"Ayli, Eternal Pilgrim",1,5,0.48,0.48
+"Elesh Norn, Grand Cenobite",1,5,12.84,12.84
+Sol Ring,1,5,0.05,0.05
+Command Tower,1,5,1.29,1.29
+Aetherflux Reservoir,1,5,2.97,2.97
+Butcher of Malakir,1,5,0.36,0.36
+Tainted Field,1,5,0.12,0.12
+Shambling Vent,1,5,1.21,1.21
+Commander’s Sphere,1,5,0.98,0.98
+Darksteel Ingot,1,5,0.71,0.71
+Underworld Connections,1,5,0.3,0.3
+Gilded Lotus,1,5,2.44,2.44
+Orzhov Signet,1,5,0.23,0.23
+Corpse Connoisseur,1,5,0.23,0.23
+Nezumi Graverobber,1,5,0.28,0.28
+Gray Merchant of Asphodel,1,5,0.95,0.95
+Pristine Talisman,1,5,0.13,0.13
+Anguished Unmaking,1,5,3.95,3.95
+"Sidisi, Undead Vizier",1,5,7.66,7.66
+Ashnod’s Altar,1,5,4.84,4.84
+Grim Haruspex,1,5,0.44,0.44
+Concealed Courtyard,1,5,2.29,2.29
+Sensei’s Divining Top,1,5,20.51,20.51
+Blood Artist,1,5,2.96,2.96
+Skullclamp,1,5,2.2,2.2
+Mind Stone,1,5,0.23,0.23
+Reassembling Skeleton,1,5,0.09,0.09
+Demon of Dark Schemes,1,5,0.53,0.53
+Karmic Guide,1,5,2.33,2.33
+Noxious Gearhulk,1,5,2.99,2.99
+"Kokusho, the Evening Star",1,5,4.34,4.34
+Sanguine Bond,1,5,0.63,0.63
+Puppeteer Clique,1,5,0.62,0.62
+Mortify,1,5,0.17,0.17
+Fumigate,1,5,0.39,0.39
+Zulaport Cutthroat,1,5,0.44,0.44
+Vizkopa Guildmage,1,5,0.15,0.15
+"Gonti, Lord of Luxury",1,5,0.34,0.34
+Oblivion Ring,1,5,0.33,0.33
+Consuming Vapors,1,5,0.19,0.19
+Marsh Flats,1,5,35.4,35.4
+Solemn Simulacrum,1,5,0,0.0,USD was not listed for this card.
+Reveillark,1,5,2.44,2.44
+Lightning Greaves,1,5,5.17,5.17
+Grave Titan,1,5,12.46,12.46
+Staff of Nin,1,5,0.62,0.62
+Merciless Eviction,1,5,2.03,2.03
+Soul Warden,1,5,0.56,0.56
+Mind’s Eye,1,5,2.1,2.1
+Utter End,1,5,0.87,0.87
+Wretched Confluence,1,5,0.87,0.87
+Felidar Sovereign,1,5,0.81,0.81
+Temple of Silence,1,5,2.22,2.22
+Viscera Seer,1,5,1.96,1.96
+Godless Shrine,1,5,8.7,8.7
+Hour of Revelation,1,5,0.5,0.5
+Sun Titan,1,5,0.36,0.36
+Fatal Push,1,5,3.44,3.44
+Mimic Vat,1,5,0.9,0.9
+Exquisite Blood,1,5,18.48,18.48
+Hero’s Downfall,1,5,2.31,2.31
+Windbrisk Heights,1,5,1.24,1.24
+Unburial Rites,1,5,0.23,0.23
+Ob Nixilis Reignited,1,5,2.65,2.65
+"Kambal, Consul of Allocation",1,5,0.84,0.84
+Caves of Koilos,1,5,1.04,1.04
+Cast Out,1,5,0.05,0.05
+Swords to Plowshares,1,5,0.98,0.98
+Ashen Rider,1,5,1.1,1.1
+"Saheeli, The Gifted",1,6,3.88,3.88
+Trophy Mage,1,6,0.18,0.18
+Tezzeret the Seeker,1,6,12.93,12.93
+Ionize,1,6,3.08,3.08
+Command Tower,1,6,1.29,1.29
+"Venser, Shaper Savant",1,6,4.5,4.5
+Blinkmoth Urn,1,6,0.15,0.15
+Expansion // Explosion,1,6,2.5,2.5
+Vessel of Endless Rest,1,6,0.09,0.09
+Whipflare,1,6,0.1,0.1
+Reverse Engineer,1,6,0.08,0.08
+Mindslaver,1,6,4.95,4.95
+Scalding Tarn,1,6,63.72,63.72
+Field of Ruin,1,6,3.06,3.06
+Seat of the Synod,1,6,0.54,0.54
+Spell Swindle,1,6,0.57,0.57
+Chromatic Lantern,1,6,3.32,3.32
+Magmaquake,1,6,0.13,0.13
+Vandalblast,1,6,3.65,3.65
+Echo Storm,1,6,0.24,0.24
+Thaumatic Compass,1,6,2.8,2.8
+Great Furnace,1,6,0.49,0.49
+Counterspell,1,6,1.09,1.09
+Myriad Landscape,1,6,1.38,1.38
+Hedron Archive,1,6,0.48,0.48
+Steam Vents,1,6,9.86,9.86
+Chaos Warp,1,6,1.35,1.35
+Prototype Portal,1,6,0.24,0.24
+Temple Bell,1,6,0.82,0.82
+Planar Bridge,1,6,3.25,3.25
+Saheeli’s Directive,1,6,1.1,1.1
+Sol Ring,1,6,0.05,0.05
+Mirrorworks,1,6,0.4,0.4
+Oracle’s Vault,1,6,0.12,0.12
+Fabricate,1,6,4.17,4.17
+Mystic Remora,1,6,0,0.0,USD was not listed for this card.
+Expedition Map,1,6,3.05,3.05
+Retrofitter Foundry,1,6,0.99,0.99
+Mechanized Production,1,6,3.43,3.43
+Treasure Mage,1,6,0.09,0.09
+Duplicant,1,6,0.1,0.1
+Basalt Monolith,1,6,2.43,2.43
+Temple of the False God,1,6,0.64,0.64
+Thirst for Knowledge,1,6,0.17,0.17
+Izzet Signet,1,6,0,0.0,USD was not listed for this card.
+Faithless Looting,1,6,1.85,1.85
+Unwinding Clock,1,6,2.43,2.43
+Thran Dynamo,1,6,4.18,4.18
+Geier Reach Sanitarium,1,6,1.07,1.07
+Combustible Gearhulk,1,6,2.49,2.49
+Whir of Invention,1,6,2.72,2.72
+Trash for Treasure,1,6,0.75,0.75
+Jace Beleren,1,6,7.02,7.02
+Saheeli’s Artistry,1,6,0.13,0.13
+Fact or Fiction,1,6,0,0.0,USD was not listed for this card.
+Hellkite Tyrant,1,6,5.55,5.55
+Thought Vessel,1,6,6.98,6.98
+Skullclamp,1,6,2.2,2.2
+Inventors’ Fair,1,6,3.06,3.06
+Cyclonic Rift,1,6,15.91,15.91
+Gilded Lotus,1,6,2.44,2.44
+Burnished Hart,1,6,1.6,1.6
+Journeyer’s Kite,1,6,0.71,0.71
+"Brudiclad, Telchor Engineeer",1,6,0,0.0,We couldn't find this card online. Check spelling.
+Mind Stone,1,6,0.23,0.23
+Nevinyrral’s Disk,1,6,1.24,1.24
+Tectonic Edge,1,6,1.55,1.55
+Darksteeel Forge,1,6,0,0.0,We couldn't find this card online. Check spelling.
+Seat of the Synod,1,6,0.54,0.54
+Voltaic Key,1,6,1.08,1.08
+Rings of Brighthearth,1,6,36.16,36.16
+Commander’s Sphere,1,6,0.98,0.98
+Solemn Simulacrum,1,6,0,0.0,USD was not listed for this card.
+Trinket Mage,1,6,0.17,0.17
+Evolving Wilds,1,6,0.09,0.09
+Temple of Epiphany,1,6,2.01,2.01
+Saheeli Rai,1,6,4.49,4.49
+Academy Ruins,1,6,23.11,23.11
+Worn Powerstone,1,6,0.38,0.38
+"Baral, Chief of Compliance",4,7,5.54,22.16
+Goblin Electromancer,4,7,0.11,0.44
+Remand,2,7,6.04,12.08
+Sleight of Hand,4,7,0,0.0,USD was not listed for this card.
+Pyretic Ritual,2,7,2.55,5.1
+Desperate Ritual,4,7,3.29,13.16
+Noxious Revival,1,7,4.94,4.94
+Past in Flames,2,7,5.16,10.32
+Gifts Ungiven,4,7,3.45,13.8
+Repeal,1,7,0.08,0.08
+Spirebluff Canal,4,7,6.42,25.68
+Empty the Warrens,3,7,0.4,1.2000000000000002
+Echoing Truth,1,7,0.87,0.87
+Shattering Spree,2,7,0,0.0,USD was not listed for this card.
+Pieces of the Puzzle,2,7,0.27,0.54
+"Anafenza, Kin-Tree Spirit",1,1,0.73,0.73
+Apostle’s Blessing,3,1,0.31,0.9299999999999999
+Aven Mindcensor,2,1,0.51,1.02
+Blessed Alliance,4,1,0.7,2.8
+"Brimaz, King of Oreskos",1,1,7.76,7.76
+Burrenton Forge-Tender,1,1,0.18,0.18
+Cast Out,1,1,0.05,0.05
+Cataclysmic Gearhulk,1,1,0.7,0.7
+Champion of the Parish,4,1,4.21,16.84
+Dusk // Dawn,2,1,0.05,0.1
+"Elspeth, Sun's Champion",1,1,6.99,6.99
+Felidar Guardian,4,1,0.28,1.12
+Fiend Hunter,1,1,0.09,0.09
+Gideon Jura,1,1,3.34,3.34
+Gideon of the Trials,2,1,4.53,9.06
+"Kataki, War's Wage",2,1,3.86,7.72
+Kor Firewalker,1,1,0.17,0.17
+"Linvala, Keeper of Silence",1,1,14.87,14.87
+Militia Bugler,1,1,0.33,0.33
+Mirran Crusader,4,1,2.46,9.84
+Remorseful Cleric,2,1,1.57,3.14
+Rest in Peace,2,1,5.58,11.16
+Secure the Wastes,1,1,3.4,3.4
+"Shalai, Voice of Plenty",1,1,4.42,4.42
+Sun Titan,1,1,0.36,0.36
+"Thalia, Guardian of Thraben",4,1,8.53,34.12
+"Thalia, Heretic Cathar",4,1,1.81,7.24
+Thalia's Lieutenant,4,1,1.91,7.64
+Annul,3,2,0.09,0.27
+Artful Dodge,1,2,0.19,0.19
+Augur of Bolas,4,2,0.47,1.88
+Brainstorm,2,2,0.57,1.14
+Ceremonious Rejection,1,2,0.42,0.42
+Counterspell,4,2,1.09,4.36
+Cryptic Command,1,2,20.49,20.49
+Daze,2,2,1.5,3.0
+Disallow,1,2,2.82,2.82
+Dispel,6,2,0.2,1.2000000000000002
+Faerie Miscreant,4,2,0.36,1.44
+Gitaxian Probe,4,2,1.35,5.4
+Gush,3,2,5.83,17.490000000000002
+Hydroblast,4,2,1.15,4.6
+"Jace, Architect of Thought",3,2,1.77,5.3100000000000005
+Mana Leak,2,2,0.15,0.3
+Mulldrifter,1,2,0.75,0.75
+Negate,2,2,0.11,0.22
+Ninja of the Deep Hours,4,2,0.73,2.92
+Ponder,4,2,0.1,0.4
+Preordain,4,2,4.1,16.4
+Remand,1,2,6.04,6.04
+Retreat to Coralhelm,2,2,0.13,0.26
+Serum Visions,1,2,3.03,3.03
+Snap,3,2,0.05,0.15000000000000002
+Snapcaster Mage,1,2,0,0.0,USD was not listed for this card.
+Spell Pierce,5,2,0.15,0.75
+Spell Snare,1,2,0.62,0.62
+Spellstutter Sprite,5,2,1.83,9.15
+Spreading Seas,4,2,1.71,6.84
+Stormbound Geist,3,2,0.46,1.3800000000000001
+Stubborn Denial,4,2,0.82,3.28
+"Tamiyo, the Moon Sage",1,2,17.15,17.15
+Unified Will,1,2,2.11,2.11
+Vapor Snag,2,2,0.65,1.3
+Collective Brutality,4,3,14.7,58.8
+Death's Shadow,1,3,8.7,8.7
+Dismember,3,3,3.06,9.18
+Fatal Push,5,3,3.44,17.2
+"Gonti, Lord of Luxury",1,3,0.34,0.34
+Inquisition of Kozilek,1,3,4.12,4.12
+Kitesail Freebooter,4,3,0.76,3.04
+Noxious Gearhulk,1,3,2.99,2.99
+Thoughtseize,2,3,12.38,24.76
+Viscera Seer,1,3,1.96,1.96
+Abrade,4,4,1.82,7.28
+Ancient Grudge,3,4,0.25,0.75
+Anger of the Gods,2,4,2.13,4.26
+Blood Moon,4,4,16.59,66.36
+"Chandra, Torch of Defiance",2,4,10.64,21.28
+Glorybringer,2,4,0.9,1.8
+"Kiki-Jiki, Mirror Breaker",1,4,7.4,7.4
+Lightning Bolt,8,4,2.74,21.92
+Temur Battle-Rage,3,4,0.34,1.02
+Vandalblast,1,4,3.65,3.65
+Acidic Slime,1,5,0.15,0.15
+Ancient Stirrings,4,5,2.29,9.16
+Beast Within,1,5,0.97,0.97
+Birds of Paradise,1,5,6.84,6.84
+Blossoming Defense,4,5,0.43,1.72
+Chameleon Colossus,1,5,3.07,3.07
+Courser of Kruphix,4,5,3.36,13.44
+Duskwatch Recruiter,1,5,0.93,0.93
+Eldritch Evolution,4,5,2.72,10.88
+Eternal Witness,1,5,7.38,7.38
+Loaming Shaman,1,5,0.45,0.45
+Lotus Cobra,3,5,5.37,16.11
+Mutagenic Growth,3,5,1.69,5.07
+Natural State,2,5,0.15,0.3
+"Nissa, Vital Force",1,5,4.25,4.25
+Oath of Nissa,4,5,0.84,3.36
+Obstinate Baloth,2,5,1.12,2.24
+Ramunap Excavator,2,5,3.24,6.48
+Reclamation Sage,2,5,0.26,0.52
+Rhonas the Indomitable,1,5,5.76,5.76
+Scavenging Ooze,4,5,3.3,13.2
+Spike Feeder,1,5,0,0.0,USD was not listed for this card.
+Tarmogoyf,1,5,0,0.0,USD was not listed for this card.
+Thragtusk,4,5,1.95,7.8
+Thrashing Brontodon,2,5,1.51,3.02
+"Thrun, the Last Troll",1,5,12.94,12.94
+Tireless Tracker,2,5,8.06,16.12
+Wayward Swordtooth,1,5,4.68,4.68
+Coiling Oracle,4,6,0.13,0.52
+Detention Sphere,2,6,2.18,4.36
+Dromoka’s Command,1,6,1.22,1.22
+Fracturing Gust,1,6,11.36,11.36
+Geist of Saint Traft,1,6,8.7,8.7
+Izzet Staticaster,2,6,0.46,0.92
+"Kambal, Consul of Allocation",1,6,0.84,0.84
+"Keranos, God of Storms",1,6,7.34,7.34
+Knight of Autumn,1,6,3.58,3.58
+Knight of the Reliquary,4,6,2.79,11.16
+Loxodon Smiter,1,6,0.61,0.61
+Maelstrom Pulse,1,6,0,0.0,USD was not listed for this card.
+Mantis Rider,2,6,0.97,1.94
+Meddling Mage,4,6,24.07,96.28
+"Nissa, Steward of Elements",1,6,2.86,2.86
+Orzhov Pontiff,1,6,5.7,5.7
+"Pharika, God of Affliction",1,6,1.72,1.72
+Qasali Pridemage,1,6,1.53,1.53
+Reflector Mage,4,6,1.08,4.32
+Renegade Rallier,4,6,0.13,0.52
+Saheeli Rai,3,6,4.49,13.47
+"Sigarda, Heron's Grace",1,6,0.68,0.68
+"Sigarda, Host of Herons",1,6,15.0,15.0
+Sin Collector,1,6,0.14,0.14
+Sphinx's Revelation,1,6,3.26,3.26
+Steel of the Godhead,1,6,2.4,2.4
+Supreme Verdict,2,6,4.06,8.12
+"Tamiyo, Field Researcher",2,6,5.65,11.3
+Voice of Resurgence,4,6,9.95,39.8
+Whirler Virtuoso,1,6,0.08,0.08
+Zealous Persecution,1,6,0.16,0.16
+Aether Vial,1,7,31.38,31.38
+Bonesplitter,2,7,0.52,1.04
+Drowner of Hope,4,7,0.14,0.56
+Eldrazi Displacer,4,7,1.94,7.76
+Eldrazi Skyspawner,4,7,0.1,0.4
+Endbringer,1,7,0.46,0.46
+Flayer Husk,1,7,0.1,0.1
+Gilded Lotus,1,7,2.44,2.44
+Grafdigger's Cage,3,7,5.28,15.84
+"Kozilek, the Great Distortion",1,7,4.94,4.94
+Matter Reshaper,4,7,1.56,6.24
+Panharmonicon,4,7,5.07,20.28
+Pithing Needle,3,7,2.19,6.57
+Reality Smasher,4,7,2.03,8.12
+Relic of Progenitus,4,7,3.78,15.12
+"Skysovereign, Consul Flagship",1,7,0.53,0.53
+Smuggler's Copter,1,7,2.1,2.1
+Sol Ring,1,7,0.05,0.05
+Solemn Simulacrum,1,7,0,0.0,USD was not listed for this card.
+Spellskite,2,7,6.96,13.92
+Spire Golem,4,7,0.78,3.12
+Talisman of Progress,2,7,0,0.0,USD was not listed for this card.
+Thought-knot Seer,4,7,5.37,21.48
+Void Grafter,4,7,0.08,0.32
+Walking Ballista,2,7,13.66,27.32
+World Breaker,2,7,2.96,5.92
+,,,,5311.35
