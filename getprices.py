@@ -36,7 +36,7 @@ def getCardList():
 def getPriceFromSQL(card):
     """test function! incomplete."""
     #Congratulations, you've found the password for my sql database that only stores magic cards information you can find anywhere.
-    #Please, by all means, hack into it, play around. Also, I don't reuse passwords. 
+    #Please, by all means, hack into it, play around. Also, I don't reuse passwords.
     cnx = mysql.connector.connect(user="sally", password="6vi6GfbTYjmR909IfhML", host="localhost", database="MagicCards")
     cursor=cnx.cursor()
     query="select * from your_collection where card_name=%s AND set_code=%s;"
@@ -51,12 +51,9 @@ def fixApostrophes(string):
     return string.replace("’", "'")
     
 def getPriceFromScryfall(card):
-    """This function needs work. It... works, but it's ugly."""
-    if card.setCode=="":
-        getPriceForMostRecentPrinting(card)
     time.sleep(.1)
     r=requests.get("https://api.scryfall.com/cards/named?exact="+card.name+"&set="+card.setCode)
-    if r.status_code==200:
+    if r.status_code==200: 
         ScryfallData=json.loads(r.text)
         return extractPriceFromScryfallData(ScryfallData)
     else:
@@ -70,6 +67,7 @@ def extractPriceFromScryfallData(ScryfallData):
         return 0
 
 def getPriceForMostRecentPrinting(card):
+    """This function also sets the setCode parameter to the most recent printing. It also sleeps for .1 second to prevent me from getting IP banned from Scryfall."""
     time.sleep(.1)
     r=requests.get("https://api.scryfall.com/cards/named?exact="+card.name)
     if r.status_code==200:
