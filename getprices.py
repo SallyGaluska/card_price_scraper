@@ -34,6 +34,7 @@ def getCardList():
     return cardList
 
 def getPriceFromSQL(card):
+    """test function! incomplete."""
     #Congratulations, you've found the password for my sql database that only stores magic cards information you can find anywhere.
     #Please, by all means, hack into it, play around. Also, I don't reuse passwords. 
     cnx = mysql.connector.connect(user="sally", password="6vi6GfbTYjmR909IfhML", host="localhost", database="MagicCards")
@@ -46,9 +47,11 @@ def getPriceFromSQL(card):
     return result[3]*result[2]
 
 def fixApostrophes(string):
+    """apparently there are multiple types of apostrophes. This function takes a string and standardizes all apostrophes to '."""
     return string.replace("’", "'")
     
 def getPriceFromScryfall(card):
+    """This function needs work. It... works, but it's ugly."""
     if card.setCode=="":
         getPriceForMostRecentPrinting(card)
     time.sleep(.1)
