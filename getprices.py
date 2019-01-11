@@ -34,6 +34,8 @@ def getCardList():
     return cardList
 
 def getPriceFromSQL(card):
+    #Congratulations, you've found the password for my sql database that only stores magic cards information you can find anywhere.
+    #Please, by all means, hack into it, play around. Also, I don't reuse passwords. 
     cnx = mysql.connector.connect(user="sally", password="6vi6GfbTYjmR909IfhML", host="localhost", database="MagicCards")
     cursor=cnx.cursor()
     query="select * from your_collection where card_name=%s AND set_code=%s;"
