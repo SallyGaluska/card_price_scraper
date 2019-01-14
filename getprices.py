@@ -81,7 +81,7 @@ def getPriceForMostRecentPrinting(card):
 def createCSVWithPrices(CardList):
     currentDate=datetime.datetime.today().strftime('%Y-%m-%d')
     with open("prices_of_"+currentDate+sys.argv[1], "w") as csvfile:
-        for card in CardList:
+       for card in CardList:
             out=createOutputList(card)
             csvfile.write('"'+('","'.join(out))+'"\n')
 
